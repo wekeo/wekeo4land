@@ -1,0 +1,27 @@
+{
+  "datasetId": "EO:ESA:DAT:SENTINEL-2:MSI",
+  "boundingBoxValues": [
+    {
+      "name": "bbox",
+      "bbox": [
+        9.425764239078317,
+        42.74275713340862,
+        9.735642520957134,
+        43.05969192516483
+      ]
+    }
+  ],
+  "dateRangeSelectValues": [
+    {
+      "name": "position",
+      "start": "2017-08-02T00:00:00.000Z",
+      "end": "2017-08-02T23:00:00.000Z"
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "processingLevel",
+      "value": "LEVEL2A"
+    }
+  ]
+}
