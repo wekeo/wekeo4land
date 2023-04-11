@@ -42,11 +42,9 @@ Python allows users to create specific environments that suit their applications
 These tutorials included in this collection require a number of non-standard 
 packages - by which we refer to those no included by default in Anaconda. These are included in the JupyterLab environment but you may need to install them for local working.
 
+------------------------------------------------------------------------------------------------------------------------------------
 
-
-In this repository you can also find:
-
-# Scripts developed for analysis of downloaded and extracted data on the local disk of a user:
+**In this repository you can also find scripts developed for analysis of downloaded and extracted data on the local disk of a user:**
 
 1) getWSMaspectStats-template.ipynb - Analyse wet snow extent from SWS time series in dependence of altitude and local aspect;
 2) getWSMElevStats-template.ipynb - Analyse wet snow extent from SWS time series in dependence of altitude.
