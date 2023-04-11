@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 EUMETSAT, Mercator Ocean International, and European Commission
+Copyright (c) 2023 European Environemtn Agency, EUMETSAT, Mercator Ocean International, and European Commission
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
