@@ -1,5 +1,5 @@
 # Copyright holder
-EUMETSAT and Mercator Ocean International under the frameworks of the Copernicus Programme
+European Environment Agency, EUMETSAT and Mercator Ocean International under the frameworks of the Copernicus Programme
 
 # List of development authors
 Hayley Evers-King (EUMETSAT)
@@ -14,6 +14,9 @@ Laia Romero (ISARDSAT)
 Chris Stewart (ECMWF)
 Carlos Fortuny Lombrana (TU DELFT)
 Federico Croce (SAPIENZA UNIVERSITY OF ROME)
+Cemal Melih Tanis (FMI)
+Kari Luojus (FMI)
+Florence Marti (Magellium)
 
 # Support
 For all queries on this software package, please contact support@wekeo.eu
