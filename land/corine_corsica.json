@@ -1,13 +1,5 @@
 {
-  "datasetId": "EO:CLMS:DAT:CORINE",
-  "stringChoiceValues": [
-    {
-      "name": "product_type",
-      "value": "Corine Land Cover 2018"
-    },
-    {
-      "name": "format",
-      "value": "GeoTiff100mt"
-    }
-  ]
+  "dataset_id": "EO:CLMS:DAT:CORINE",
+  "product_type": "Corine Land Cover 2018",
+  "format": "GeoTiff100mt"
 }
