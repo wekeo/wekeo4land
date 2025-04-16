@@ -1,0 +1,5 @@
+{
+  "dataset_id": "EO:CLMS:DAT:CORINE",
+  "product_type": "Corine Land Cover 2018",
+  "format": "GeoTiff100mt"
+}
