@@ -16,10 +16,11 @@ and hosted processing environments.
 
 This repository is organized in different case studies: 
 
-(i) datacubes-snow-monitoring
-(ii) land
-(iii) ml-grassland-classification
-(iv) snow&ice
+(i) land
+
+(ii) ml-grassland-classification
+
+(iii) snow&ice
 
 For each case study a set of Copernicus data is introduced that is suitable for various applications and available via WEkEO. 
 
@@ -36,18 +37,3 @@ If you are currently on the WEkEO JupyterLab you're already in the right place a
 This will create a clone of this repository of notebooks in the work directory on your Jupyterlab instance. You can use the same shell script to clone any external repository you like.
 
 You can also use this code on your own computer/Jupyter Lab server, however you won't have the fast access provided by the Harmonized Data Access as part of the WEkEO infrastructure.
-
-### Recommended python set up
-
-This repository supports Python 3.7. We highly recommend that users working on their own systems install the appropriate Anaconda distribution for their operating system. Here is a link to the [Anaconda distribution of Python 3.7](https://www.anaconda.com/products/individual).
-
-### Python environments
-
-Python allows users to create specific environments that suit their applications.
-This tutorials included in this collection require a number of non-standard
-packages - by which we refer to those not included by default in Anaconda. These are included in the JupyterLab environment but you may need to install them for local working.
-
-## Where to find what you need
-
-The content of this repository is suitable for those completely new to WEkEO, Python, Copernicus data
-and hosted processing environments.
