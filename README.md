@@ -9,7 +9,7 @@ The content provided is mostly based on [Jupyter Notebooks](https://jupyter.org/
 a high-level of interactive learning, as code, text description and visualisation
 is combined in one place.
 
-The content of this repository is suitable for those completely new to WEkEO, Python, Copernicus data
+The content of this repository is suitable for those completely new to WEkEO, Python, R, Copernicus data
 and hosted processing environments.
 
 ## Repository overview
