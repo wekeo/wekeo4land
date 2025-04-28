@@ -19,8 +19,3 @@ The notebooks contained within the repository feature data from "High Resolution
 The content of this repository is suitable for those completely new to WEkEO, Python, Copernicus data and hosted processing environments.
 
 ------------------------------------------------------------------------------------------------------------------------------------
-
-**In this repository you can also find scripts developed for analysis of downloaded and extracted data on the local disk of a user:**
-
-1) getWSMaspectStats-template.ipynb - Analyse wet snow extent from SWS time series in dependence of altitude and local aspect;
-2) getWSMElevStats-template.ipynb - Analyse wet snow extent from SWS time series in dependence of altitude.
