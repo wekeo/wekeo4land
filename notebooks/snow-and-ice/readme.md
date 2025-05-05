@@ -15,7 +15,4 @@ is combined in one place.
 ## Copernicus Data
 The notebooks contained within the repository feature data from "High Resolution Snow and Ice Monitoring" products, which are derived from the Sentinel-1 and Sentinel-2 satellites.
 
-## Where to find what you need
-The content of this repository is suitable for those completely new to WEkEO, Python, Copernicus data and hosted processing environments.
-
 ------------------------------------------------------------------------------------------------------------------------------------
