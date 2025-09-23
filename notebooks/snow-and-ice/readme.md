@@ -5,7 +5,7 @@ You can find here:
 # HRSI GFSC Demo
 
 **clms_hrsi_gfsc_demo** is a Python based tool to introduce you to the use of the Daily Cumulative Gap-filled Fractional Snow Cover (GFSC) product on the [WEkEO DIAS (Data Information
-and Access System)](https://wekeo.eu/) and its Jupyter Lab. The notebook demonstrates how to use the Harmonised Data Access (HDA) API to download the products, read product data and metadata, visualize and manipulate raster data. The tutorial is using data from the Copernicus Programme that are available on WEkEO platform under High Resolution Snow and Ice Monitoring framework contract implemented by European Environment Agency (EEA), written by by expert trainers
+and Access System)](https://wekeo.eu/) and its Jupyter Lab. The notebook demonstrates how to use the Harmonised Data Access (HDA) API to download the products, read product data and metadata, visualize and manipulate raster data. The tutorial is using data from the Copernicus Programme that are available on WEkEO platform under High Resolution Snow and Ice Monitoring framework contract implemented by European Environment Agency (EEA), written by expert trainers
 from Finnish Meteorological Institute and Magellium.
 
 The content provided is mostly based on [Jupyter Notebooks](https://jupyter.org/), which allow
