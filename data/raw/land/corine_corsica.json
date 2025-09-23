@@ -1,5 +1,5 @@
 {
-  "dataset_id": "EO:CLMS:DAT:CORINE",
-  "product_type": "Corine Land Change 2006 2012",
-  "format": "GeoTiff100mt"
+  "dataset_id": "EO:EEA:DAT:CORINE",
+  "format": "GeoTiff100mt",
+  "productType": "Corine Land Change 2006 2012"
 }
