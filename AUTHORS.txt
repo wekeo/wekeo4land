@@ -19,6 +19,9 @@ Lars Keuris (ENVEO)
 Cemal Melih Tanis (FMI)
 Kari Luojus (FMI)
 Florence Marti (Magellium)
+Adrian Di Paolo
+Chung-Xiang Hong
+Jonas Viehweger
 
 # Support
 For all queries on this software package, please contact support@wekeo.eu
