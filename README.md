@@ -20,7 +20,7 @@ The repository is organized into a set of case studies, each illustrating how Co
 
 <br>
 
-## How to use this material
+## How to use this material?
 
 If you are on GitHub/Lab you can visit www.wekeo.copernicus.eu, register for an account and enter the JupyterLab - then follow the instructions below.
 
