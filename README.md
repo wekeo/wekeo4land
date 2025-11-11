@@ -27,7 +27,7 @@ If you are on GitHub/Lab you can visit www.wekeo.copernicus.eu, register for an 
 
 If you are currently on the WEkEO JupyterLab you're already in the right place and can start. To clone this repository in to the WEkEO JupyterLab environment open a terminal in the WEkEO JupyterLab, type
 
-> <br> > `git clone https://github.com/wekeo/wekeo4land.git`<br>
+<br> > `git clone https://github.com/wekeo/wekeo4land.git`<br>
 
 This will create a clone of this repository of notebooks in the working directory on your WEkEO JupyterLab instance. 
 
