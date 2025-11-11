@@ -1,4 +1,4 @@
-# Welcome to WEkEO4Land
+# Welcome to wekeo4land
 
 **wekeo4land** is a collection of Python- and R-based tools designed to introduce users to the use of land-related data on the [WEkEO DIAS (Data Information and Access System)](https://wekeo.copernicus.eu/) and its JupyterLab environment. 
 
